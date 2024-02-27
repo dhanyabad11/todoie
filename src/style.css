@@ -1,0 +1,24 @@
+.todo-container {
+  width: 300px;
+  padding:10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.todo-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.todo-button {
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  font-weight: bold;
+}
+body{
+  background-color:gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
